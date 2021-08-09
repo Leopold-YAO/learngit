@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-nnnnyes&simple
-=======
-nnnnyesleopo
->>>>>>> feature1
+nnnnyes&simplenoteasy
