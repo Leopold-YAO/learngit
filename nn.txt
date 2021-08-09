@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 nnnnyes&simple
+=======
+nnnnyesleopo
+>>>>>>> feature1
